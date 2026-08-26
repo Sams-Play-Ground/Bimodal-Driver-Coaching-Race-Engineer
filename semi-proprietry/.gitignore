@@ -1,0 +1,27 @@
+# Raw and processed data — lives on removable storage medium, not git
+data/raw/video/*
+data/raw/telemetry/*
+data/labelled/*
+data/processed/*
+!data/raw/video/.gitkeep
+!data/raw/telemetry/.gitkeep
+!data/labelled/.gitkeep
+!data/processed/.gitkeep
+
+# Model checkpoints — large binary files
+checkpoints/cnn/*
+checkpoints/lstm/*
+checkpoints/fusion/*
+!checkpoints/cnn/.gitkeep
+!checkpoints/lstm/.gitkeep
+!checkpoints/fusion/.gitkeep
+
+# Kaggle notebook outputs / large result artifacts
+results/confusion_matrices/*.png
+results/fer_logs/*.csv
+!results/confusion_matrices/.gitkeep
+!results/fer_logs/.gitkeep
+
+__pycache__/
+*.pyc
+.ipynb_checkpoints/

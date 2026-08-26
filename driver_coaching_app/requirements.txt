@@ -1,0 +1,10 @@
+PyQt6==6.7.1
+PyQt6-Qt6==6.7.2
+opencv-python==4.10.0.84
+numpy==1.26.4
+pandas==2.2.2
+torch==2.3.1
+torchvision==0.18.1
+timm==1.0.9
+fpdf2==2.7.9
+pyinstaller==6.10.0
