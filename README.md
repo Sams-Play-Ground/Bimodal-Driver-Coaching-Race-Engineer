@@ -34,8 +34,10 @@ This split keeps the Latest trained models private while
 making the surrounding engineering pipeline open for review, The dataset is made public and here is a link to it in kaggle.
 
 CNN Dataset: `https://www.kaggle.com/datasets/samwelnjehia/cnn-module-data/data`
+
 LSTM Dataset: `https://www.kaggle.com/datasets/samwelnjehia/lstm-module-telemetry-data/data`
-Framework App Download link: ``
+
+Framework App: `https://usiu-my.sharepoint.com/:u:/g/personal/snjehia_usiu_ac_ke/IQDJibOPtEo_SZEx9sMJcaiEAUGy9pbl7NfTpQ_p3tT6YM8?e=YnCuCb`
 
 ## Implementation status
 
